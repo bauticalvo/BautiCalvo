@@ -51,4 +51,7 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
+    <a href="https://Tailwind.com/" target="_blank">
+    <img src="https://img.shields.io/badge/logo-tailwind-blue?logo=tailwind" alt="Tailwind"/> 
+  </a>
  </div>
