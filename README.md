@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hola 👋, Mi Nombre es Juan Bautista Calvo
+<hr>
+<h1>Apasionado por la programación y el desarrollo de software, buscando siempre aprender y contribuir en proyectos innovadores</h1>
 
 
 <div>
  <br>
   
-  <h3>Tecnologías</h3> 
+  <h3>Tecnologías!!</h3> 
   
   <br>
   
@@ -51,7 +53,5 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/logo-tailwind-blue?style=for-the-badge&logo=tailwind" alt="Tailwind"/> 
-  </a>
+
  </div>
