@@ -1,4 +1,4 @@
-### Hola 👋, Mi Nombre es Juan Bautista Calvo
+<h3> Hola 👋, Mi Nombre es Juan Bautista Calvo</h3>
 <hr>
 <h1>Apasionado por la programación y el desarrollo de software, buscando siempre aprender y contribuir en proyectos innovadores</h1>
 
