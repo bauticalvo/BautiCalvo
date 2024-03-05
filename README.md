@@ -1,11 +1,29 @@
 <h1> Hola 👋, Mi Nombre es Juan Bautista Calvo</h1>
 <hr>
-<h1>Apasionado por la programación y el desarrollo de software, buscando siempre aprender y contribuir en proyectos innovadores</h1>
-
+<div>
+<h3>Apasionado por la programación y el desarrollo de software, buscando siempre aprender y contribuir en proyectos innovadores</h3>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
+</div>
+<hr>
 
 <div>
  <br>
-  
+ <h3>¡Hola! Te preguntas quien soy?. Un apasionado FullStack Developer con un enfoque especializado en el desarrollo de páginas web. Mi verdadera pasión se encuentra en el Front End, donde disfruto creando experiencias de usuario impactantes y funcionales.
+
+Me caracterizo por ser una persona proactiva y adaptable, capaz de trabajar de manera eficiente tanto de forma individual como en equipo. Mi habilidad para organizar y priorizar tareas según las necesidades del proyecto ha sido fundamental en mi trayectoria profesional.
+
+Disfruto colaborando en entornos dinámicos donde la creatividad y la innovación son bienvenidas. Creo firmemente que las mejores soluciones surgen de la combinación de ideas diversas y el trabajo en equipo.
+
+En este momento, estoy en búsqueda de nuevas oportunidades profesionales donde pueda aplicar mis habilidades y conocimientos para marcar una diferencia significativa. Mi sed de conocimiento es insaciable, por lo que siempre estoy buscando nuevas vías para expandir mis horizontes profesionales y adquirir experiencia.</h3>
+ <br>
+ <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" height="480" frameBorder="0" class="giphy-embed">
+ <h3>Proyectos Realizados</h3>
+ 
+ - 🏎 Mi primer trabajo individual [PI DRIVERS](https://github.com/bauticalvo/PIDrivers)
+ 
+ - 🌎 Mi primer trabajo grupal [idiomas Master](https://github.com/bauticalvo/idiomasMasterFront)
+  <br>
+  <hr>
   <h3>Tecnologías!!</h3> 
   
   <br>
@@ -53,5 +71,19 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
+  <hr>
+<br>
+ ⭐ Si te gusto mi perfil no dudes en contactarme 
+<br>
+ 
+  <br>
+  <a href="https://www.linkedin.com/in/juan-bautista-calvo-668613238/">
+<img border="0" alt="Linkedin" src="https://img.icons8.com/doodle/40/142548160/linkedin.png" width="30" height="30"/>
+</a>
+
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+<img border="0" alt="Email" src="https://img.icons8.com/doodle/40/142548160/email.png" width="30" height="30" />
+</a>
+
 
  </div>
